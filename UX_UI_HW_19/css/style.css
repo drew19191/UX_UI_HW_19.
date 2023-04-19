@@ -17,9 +17,6 @@ header li {
 header p {
   display: inline-block;
 }
-.logo {
-  align-items: center;
-}
 .heroImg {
   background-color: #EBEBEB;
   padding: 100px 15px;
