@@ -135,10 +135,3 @@ footer {
 
 
 
-@media only screen and (max-width: 600){
-
-  .flexContainer 
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-}
