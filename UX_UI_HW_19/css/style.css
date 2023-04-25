@@ -6,35 +6,17 @@ body {
 header {
   display: flex;
   justify-content: space-evenly;
-<<<<<<< HEAD
-  background-color: #B1A296;
-=======
   background-color:#B1A296;
->>>>>>> aca6d7f5b7bda1d1c4220ff77a4773ea074cd6bc
   padding: 0px;
   height: 100px;
 }
 
-<<<<<<< HEAD
-.btn{
-  background-color: #B1A296;
-  height: 100px;
-  padding: 0%;
-  padding-top: 0%;
-  padding-bottom: 0%;
- 
-}
-
-
-
-=======
-button {
+.btn {
   height: 100px;
   
 }
 
 
->>>>>>> aca6d7f5b7bda1d1c4220ff77a4773ea074cd6bc
 .deeds {
   width: 150px;
   margin: 0;
