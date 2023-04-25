@@ -6,15 +6,20 @@ body {
 header {
   display: flex;
   justify-content: space-evenly;
-  background-color:#B1A296;
+  background-color: #B1A296;
   padding: 0px;
   height: 100px;
 }
 
-button {
+.btn{
+  background-color: #B1A296;
   height: 100px;
-  
+  padding: 0%;
+  padding-top: 0%;
+  padding-bottom: 0%;
+ 
 }
+
 
 
 .deeds {
