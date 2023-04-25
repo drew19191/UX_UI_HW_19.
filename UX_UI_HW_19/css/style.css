@@ -7,9 +7,15 @@ header {
   display: flex;
   justify-content: space-evenly;
   background-color:#B1A296;
-  padding: 15px;
+  padding: 0px;
   height: 100px;
 }
+
+button {
+  height: 100px;
+  
+}
+
 
 .deeds {
   width: 150px;
